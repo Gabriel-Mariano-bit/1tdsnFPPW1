@@ -42,6 +42,24 @@ td {
 .dadospares{
     background-color: ghostwhite;
 }
+.dadosimpares{
+    background-color: white;
+}
+.dadospares{
+    background-color: ghostwhite;
+}
+.dadosimpares{
+    background-color: white;
+}
+.dadospares{
+    background-color: ghostwhite;
+}
+.dadosimpares{
+    background-color: white;
+}
+.dadospares{
+    background-color: ghostwhite;
+}
 h2{
     font-size: 40px;
     color: antiquewhite;
@@ -57,4 +75,8 @@ h4{
 }
 #linha2{
     border-radius: 5px;
+}
+strong{
+    font-size: px;
+    color: antiquewhite;
 }
